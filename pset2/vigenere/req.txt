@@ -1,0 +1,9 @@
+1. get the key
+    argc should be equal to 2
+    argv[1] should be only lettters
+        loop through each one to see
+        if not break
+2. get the plaintext
+3. cipher text
+4. print ciphertext
+

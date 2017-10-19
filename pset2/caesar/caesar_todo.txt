@@ -1,0 +1,8 @@
+1. get the key
+    a. make sure command-line gives only two arguments
+    b. convert argv[1] to int
+    c. make sure argv[1] is not negative
+    d. make sure key is within 0 and 26
+2. get the plaintext
+3. encipher
+4. print ciphertext
